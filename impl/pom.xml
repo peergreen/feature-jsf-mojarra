@@ -36,7 +36,7 @@
     <dependency>
       <groupId>com.peergreen.webcontainer</groupId>
       <artifactId>peergreen-webcontainer-api</artifactId>
-      <version>1.0.2-SNAPSHOT</version>
+      <version>1.0.2</version>
       <scope>provided</scope>
     </dependency>
 
